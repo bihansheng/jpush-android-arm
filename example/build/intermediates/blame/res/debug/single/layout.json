@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "F:\\DemoForStudy\\jpush-android-arm\\example\\build\\intermediates\\res\\merged\\debug\\layout\\set_push_time.xml",
+        "source": "F:\\DemoForStudy\\jpush-android-arm\\example\\res\\layout\\set_push_time.xml"
+    },
+    {
+        "merged": "F:\\example\\build\\intermediates\\res\\merged\\debug\\layout\\customer_notitfication_layout.xml",
+        "source": "F:\\example\\res\\layout\\customer_notitfication_layout.xml"
+    },
+    {
+        "merged": "F:\\DemoForStudy\\jpush-android-arm\\example\\build\\intermediates\\res\\merged\\debug\\layout\\push_set_dialog.xml",
+        "source": "F:\\DemoForStudy\\jpush-android-arm\\example\\res\\layout\\push_set_dialog.xml"
+    },
+    {
+        "merged": "F:\\example\\build\\intermediates\\res\\merged\\debug\\layout\\push_set_dialog.xml",
+        "source": "F:\\example\\res\\layout\\push_set_dialog.xml"
+    },
+    {
+        "merged": "E:\\example\\build\\intermediates\\res\\merged\\debug\\layout\\customer_notitfication_layout.xml",
+        "source": "E:\\example\\res\\layout\\customer_notitfication_layout.xml"
+    },
+    {
+        "merged": "F:\\example\\build\\intermediates\\res\\merged\\debug\\layout\\set_push_time.xml",
+        "source": "F:\\example\\res\\layout\\set_push_time.xml"
+    },
+    {
+        "merged": "E:\\example\\build\\intermediates\\res\\merged\\debug\\layout\\customer_notitfication_layout_one.xml",
+        "source": "E:\\example\\res\\layout\\customer_notitfication_layout_one.xml"
+    },
+    {
+        "merged": "F:\\DemoForStudy\\jpush-android-arm\\example\\build\\intermediates\\res\\merged\\debug\\layout\\customer_notitfication_layout.xml",
+        "source": "F:\\DemoForStudy\\jpush-android-arm\\example\\res\\layout\\customer_notitfication_layout.xml"
+    },
+    {
+        "merged": "F:\\example\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "F:\\example\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\example\\build\\intermediates\\res\\merged\\debug\\layout\\push_set_dialog.xml",
+        "source": "E:\\example\\res\\layout\\push_set_dialog.xml"
+    },
+    {
+        "merged": "F:\\example\\build\\intermediates\\res\\merged\\debug\\layout\\customer_notitfication_layout_one.xml",
+        "source": "F:\\example\\res\\layout\\customer_notitfication_layout_one.xml"
+    },
+    {
+        "merged": "F:\\DemoForStudy\\jpush-android-arm\\example\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "F:\\DemoForStudy\\jpush-android-arm\\example\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "F:\\DemoForStudy\\jpush-android-arm\\example\\build\\intermediates\\res\\merged\\debug\\layout\\customer_notitfication_layout_one.xml",
+        "source": "F:\\DemoForStudy\\jpush-android-arm\\example\\res\\layout\\customer_notitfication_layout_one.xml"
+    },
+    {
+        "merged": "F:\\example\\build\\intermediates\\res\\merged\\debug\\layout\\jpush_webview_layout.xml",
+        "source": "F:\\example\\res\\layout\\jpush_webview_layout.xml"
+    },
+    {
+        "merged": "E:\\example\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "E:\\example\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\example\\build\\intermediates\\res\\merged\\debug\\layout\\jpush_webview_layout.xml",
+        "source": "E:\\example\\res\\layout\\jpush_webview_layout.xml"
+    },
+    {
+        "merged": "E:\\example\\build\\intermediates\\res\\merged\\debug\\layout\\set_push_time.xml",
+        "source": "E:\\example\\res\\layout\\set_push_time.xml"
+    },
+    {
+        "merged": "F:\\DemoForStudy\\jpush-android-arm\\example\\build\\intermediates\\res\\merged\\debug\\layout\\jpush_webview_layout.xml",
+        "source": "F:\\DemoForStudy\\jpush-android-arm\\example\\res\\layout\\jpush_webview_layout.xml"
+    }
+]

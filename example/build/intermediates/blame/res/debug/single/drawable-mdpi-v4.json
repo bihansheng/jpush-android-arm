@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\example\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "E:\\example\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\example\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "F:\\example\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\DemoForStudy\\jpush-android-arm\\example\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "F:\\DemoForStudy\\jpush-android-arm\\example\\res\\drawable-mdpi\\ic_launcher.png"
+    }
+]
